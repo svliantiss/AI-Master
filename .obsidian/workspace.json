@@ -1,0 +1,322 @@
+{
+  "main": {
+    "id": "f3351f6e349a058e",
+    "type": "split",
+    "children": [
+      {
+        "id": "78b4138a4e4e43e4",
+        "type": "split",
+        "children": [
+          {
+            "id": "e44bb708a5079a88",
+            "type": "tabs",
+            "dimension": 65.6842105263158,
+            "children": [
+              {
+                "id": "7c87aaad6a3bb069",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "readme.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "readme"
+                }
+              },
+              {
+                "id": "25eb0173df5418d5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "instructions.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "instructions"
+                }
+              },
+              {
+                "id": "66c351e680471922",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "readme.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "readme"
+                }
+              },
+              {
+                "id": "d94e7756133177b1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "readme.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "readme"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "94083cfe6636e1fe",
+            "type": "tabs",
+            "dimension": 34.31578947368421,
+            "children": [
+              {
+                "id": "e4a17ee8ef4acdf5",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/svl/Projects/AI/AI",
+                      "focus": false,
+                      "profile": {
+                        "args": [
+                          "--login"
+                        ],
+                        "executable": "/bin/zsh",
+                        "followTheme": true,
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: svl@Svls-MacBook-Pro:~/Projects/AI/AI"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc38deae21d23f69",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eafc78944086f90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6d8af7ef676d0e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "942ed9cf08398ad8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5a91aa6ba06b7681",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "right": {
+    "id": "c31265f914a7ef88",
+    "type": "split",
+    "children": [
+      {
+        "id": "101dae77aca7ed8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f10a72649e9f050",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ccfbc6a1508b6138",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4ee62fe148f44367",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9525d428f4e5b660",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a31c79fb4c02f185",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "e4a17ee8ef4acdf5",
+  "lastOpenFiles": [
+    "AI-Master/projects/example/example_plan.md",
+    "AI-Master/projects/example/example_context.md",
+    "AI-Master/projects/example/example_analysis.md",
+    "AI-Master/templates/_plan_template.md",
+    "AI-Master/templates/_context_template.md",
+    "AI-Master/templates/_analysis_template.md",
+    "AI-Master/projects/example",
+    "AI-Master/templates",
+    "AI-Master/projects",
+    "AI-Master/mistakes.md",
+    "AI-Master/index.md",
+    "AI-Master/docs",
+    "AI-Master/commands.md",
+    "AI-Master/AGENTS.md",
+    "AI-Master",
+    "instructions.md",
+    "AI/commands.md",
+    "AI/mistakes.md",
+    "AI/templates/_context_template.md",
+    "AI/templates/_plan_template.md",
+    "AI/templates/_analysis_template.md",
+    "AI/AGENTS.md",
+    "readme.md",
+    "AI/index.md",
+    "AI/projects/example/example_context.md",
+    "AI/projects/example/example_analysis.md",
+    "AI/projects/example/example_plan.md",
+    "AI/projects/example",
+    "AI/templates",
+    "AI/projects",
+    "AI/docs",
+    "index",
+    "2026-04-15.md",
+    "Untitled.canvas",
+    "Untitled 1.md"
+  ]
+}
